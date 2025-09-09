@@ -55,5 +55,7 @@ export class AppComponent implements OnInit {
             );
     }
 
-
+    coreCourse = COURSES[0];
+    coreCourse1 = COURSES[1];
+    coreCourse2 = COURSES[2];
 }
